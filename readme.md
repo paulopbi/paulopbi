@@ -28,7 +28,7 @@
     You can follow me on my social medias.
   </p>
 <!--LINKEDIN-->
-  <a href="https://www.linkedin.com/in/paulovictorpbi/" target="_blank">
+  <a href="https://www.linkedin.com/in/paulopbi/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35em">
   </a>
 <!--BEHANCE-->
