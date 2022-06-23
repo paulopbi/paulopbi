@@ -1,5 +1,5 @@
 <!--INTRO-->
-  <h1 align="center"> 
+  <h1 align="left"> 
     👋🏿 Hello World, I'm Paulo Victor
   </h1>
 
@@ -129,9 +129,7 @@ COLLEGE SECTION
 
 ## 📊 Others Informations
 
-<img src="https://github-readme-stats.vercel.app/api?username=paulopbi&show_icons=true&theme=default" height="160em">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulopbi&layout=compact" height="163em">
+<img src="https://github-readme-stats.vercel.app/api?username=paulopbi&show_icons=true&theme=default" height="160em"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulopbi&layout=compact" height="160em">
 
 <p align="right">
 <a href="#top">BACK TO THE TOP ▲</a>
