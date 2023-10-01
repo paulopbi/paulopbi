@@ -2,48 +2,62 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=35&pause=1000&color=00BFBF&center=true&vCenter=true&width=1000&lines=Analise+e+Desenvolvimento+de+Sistemas;Desenvolvimento+Frontend;UI+Design)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=35&pause=1000&color=00BFBF&center=true&vCenter=true&width=1000&lines=Análise+e+Desenvolvimento+de+Sistemas;Desenvolvimento+FullStack;UI+Design)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=paulopbi&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=paulopbi&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Paulo github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulopbi&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-# <b>Front-end & UI Designer.</b><br>
+<br>
 
-## Sobre mim
-Olá mundo 👋🏾, me chamo **Paulo Victor** e moro no **Rio de Janeiro**, sou apaixonado por tecnologia desde criança! Faço faculdade de **Analise e Desenvolvimento de Sistemas** na Unicesumar, e estudo **Desenvolvimento Frontend** & **UI Design**! Tendo vários projetos pessoais e dos cursos aqui no meu github. <br>
+Hello world 👋🏾, my name is **Paulo Victor** and I'm currently based in **Rio de Janeiro - Brasil**, I've been passionate about technology since I was a child! I study **Análise e Desenvolvimento de Sistemas (Analysis and Systems Development)** at Unicesumar college, I like the **FullStack Development** stack and it's my main focous now, you can see some of personal and course projects here on <a href="https://github.com/paulopbi?tab=repositories">my github</a> or follow me @ social media bellow.
 
-Você pode ver mais dos meus projetos nos <a href="https://github.com/paulopbi?tab=repositories">meus repositórios</a>. <br>
+<a href="https://www.linkedin.com/in/paulopbi/"> ![Linkedin](https://img.shields.io/badge/-linkedIn-0D1117?style=for-the-badge&logo=linkedIn&logoColor=blue&labelColor=0D1117)&nbsp; </a>
+<a href="https://github.com/paulopbi"> ![github](https://img.shields.io/badge/-github-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)&nbsp; </a>
+<a href="https://www.behance.net/paulopbi"> ![behance](https://img.shields.io/badge/-behance-0D1117?style=for-the-badge&logo=behance&logoColor=blue&labelColor=0D1117)&nbsp; </a>
 
-Na faculdade já vi matérias como: *Java, C, SQL, Engenharia de Software, Algoritimos e Logica, Sistemas Operacionais, Estrutura de Dados, Redes de Computadores, e outras...*
+<br>
 
-As tecnologias que uso no dia a dia estão logo abaixo, sendo grande parte delas para desenvolvimento frontend. 
+```diff
+@@ Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better. - Samuel Beckett @@
 
-## Tecnologias que eu uso 
+# Random info about me!
++ Living in Rio De Janeiro, Brazil.
++ College at Unicesumar.
++ Analise e Desenvolvimento de Sistemas.
++ Brazilian Portuguese and English speaker.
 
+- Guitar player.
+- Technology addicted.
+- Gym athlete.
+
+! Fullstack Development.
+! Java, NodeJS, Javascript, C, SQL, UML, Figma, HTML, CSS.
+```
+
+### Stacks
+<!--Frontend-->
+- Frontend <br>
 ![HTML](https://img.shields.io/badge/-html5-0D1117?style=for-the-badge&logo=html5&logoColor=orange&labelColor=0D1117)&nbsp; 
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Sass](https://img.shields.io/badge/Sass-0D1117?style=for-the-badge&logo=sass&logoColor=CC6699)&nbsp;
 ![Tailwind Css](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 
-## Tecnologias que estou aprendendo
+<!--Backend-->
+- Backend <br>
+![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&labelColor=Blue)&nbsp;
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=orange)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Typescript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-## Contato
-você pode me acompanhar pelas redes sociais: <br>
-<a href="https://www.linkedin.com/in/paulopbi/">Linkedin</a> <br>
-<a href="https://www.behance.net/paulopbi">Behance</a> <br>
-<a href="https://github.com/paulopbi">Github</a> <br>
-
-Muito obrigado por ver meu perfil! Espero que volte outras vezes.
-
-<img src="./img/capa-github.png" alt="capa">
+<!--Others-->
+- Others <br>
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=Git&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
+![MD](https://img.shields.io/badge/-Markdown-0D1117?style=for-the-badge&logo=markdown&labelColor=0D1117)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
