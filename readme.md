@@ -22,7 +22,7 @@
   />
 
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?    username=paulopbi&show_icons=true&hide_border=true&hide_progress=true&theme=catppuccin_latte#gh-light-mode-only"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=paulopbi&show_icons=true&hide_border=true&hide_progress=true&theme=catppuccin_latte#gh-light-mode-only"
     media="(prefers-color-scheme: light)"
   />
   
