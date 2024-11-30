@@ -1,39 +1,62 @@
-<!-- [![Paulo Victor](./img/capa-github.png)](https://www.linkedin.com/in/paulopbi/) -->
+<img width=100% height="120" src="https://capsule-render.vercel.app/api?type=waving&color=707CFF&height=120&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=35&pause=1000&color=00BFBF&center=true&vCenter=true&width=1000&lines=Análise+e+Desenvolvimento+de+Sistemas;Frontend+Development;UI+Design)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=35&pause=1000&color=fff&center=true&vCenter=true&width=1000&lines=Análise+e+Desenvolvimento+de+Sistemas;Frontend+Developer;UI+Design)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=paulopbi&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Paulo github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulopbi&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=paulopbi&show_icons=true&hide_border=true&bg_color=00000000&&theme=catppuccin_mocha#gh-dark-mode-only"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=paulopbi&show_icons=true&theme=catppuccin_latte#gh-light-mode-only"
+      media="(prefers-color-scheme: light)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=paulopbi&show_icons=true" width="49%" height="195px" />
+</picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=paulopbi&show_icons=true&bg_color=00000000&hide_progress=true&hide_border=true&theme=catppuccin_mocha#gh-dark-mode-only"
+    media="(prefers-color-scheme: dark)"
+  />
+
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?    username=paulopbi&show_icons=true&hide_border=true&hide_progress=true&theme=catppuccin_latte#gh-light-mode-only"
+    media="(prefers-color-scheme: light)"
+  />
+  
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulopbi&layout=compact&hide_border=true&hide_progress=true" />
+</picture>
 </div>
 
 <br>
 
-Hello world 👋🏾, my name is **Paulo Victor** and I'm currently based in **Rio de Janeiro - Brasil**, I've been passionate about technology since I was a child! I study **Análise e Desenvolvimento de Sistemas (Analysis and Systems Development)** at **Unicesumar** college, my stack is **Frontend Development & UI Design** and it's my main focous now, you can see some of personal and course projects here on <a href="https://github.com/paulopbi?tab=repositories">my github</a> or follow me @ social media bellow.
+Hello, world! 👋🏾
 
-<a href="https://www.linkedin.com/in/paulopbi/"> ![Linkedin](https://img.shields.io/badge/-linkedIn-0D1117?style=for-the-badge&logo=linkedIn&logoColor=blue&labelColor=0D1117)&nbsp; </a>
-<a href="https://github.com/paulopbi"> ![github](https://img.shields.io/badge/-github-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)&nbsp; </a>
-<a href="https://www.behance.net/paulopbi"> ![behance](https://img.shields.io/badge/-behance-0D1117?style=for-the-badge&logo=behance&logoColor=blue&labelColor=0D1117)&nbsp; </a>
+I'm Paulo Victor, a passionate tech enthusiast currently based in Rio de Janeiro, Brazil. My journey with technology began in my childhood, and it has shaped my career ever since.
+
+I hold a degree in Analysis and Systems Development from Unicesumar, and I specialize in Frontend Development and UI Design, which are my primary areas of focus.
+
+On this GitHub, you'll find a collection of my personal and academic projects. Feel free to explore them on <a href="https://github.com/paulopbi?tab=repositories">my GitHub</a> or connect with me on social media below.
+
+![Linkedin](https://img.shields.io/badge/-linkedIn-0D1117?style=for-the-badge&logo=linkedIn&logoColor=blue&labelColor=0D1117)&nbsp;
+![Github](https://img.shields.io/badge/-github-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)&nbsp;
+![Behance](https://img.shields.io/badge/-behance-0D1117?style=for-the-badge&logo=behance&logoColor=blue&labelColor=0D1117)&nbsp;
 
 <br>
 
 ```diff
-@@ Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better. - Samuel Beckett @@
+@@ Don’t let the fear of losing be greater than the excitement of winning. - Robert Kiyosaki @@
 
-# Random info about me!
-+ Living in Rio De Janeiro, Brazil.
-+ College at Unicesumar.
-+ Analise e Desenvolvimento de Sistemas.
-+ Brazilian Portuguese and English speaker.
++ Brazilian Native.
++ Graduate in Analysis and Systems Development (Unicesumar).
++ Fluent in Brazilian Portuguese and English.
 
-- Guitar player.
-- Technology addicted.
-- Gym athlete.
-
-! Fullstack Development.
-! Java, NodeJS, Javascript, C, SQL, UML, Figma, HTML, CSS.
+- Guitar player 🎸
+- Technology enthusiast 💻
+- Fitness lover 🏋🏾‍♂️
+- Casual gamer 🎮
 ```
 
 ### Skills
@@ -47,6 +70,7 @@ Frontend <br>
 ![Tailwind Css](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=CC6699)&nbsp;
 ![Sass](https://img.shields.io/badge/Sass-0D1117?style=for-the-badge&logo=sass&logoColor=CC6699)&nbsp;
+![Motion](https://img.shields.io/badge/Motion-0D1117?style=for-the-badge&logo=framer&logoColor=FFF312)&nbsp;
 
 <!--Design-->
 Design <br>
@@ -55,9 +79,9 @@ Design <br>
 
 <!--Backend-->
 Backend <br>
-![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&labelColor=Blue)&nbsp;
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=orange)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Mongo DB](https://img.shields.io/badge/-Mongo_DB-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Postgres](https://img.shields.io/badge/-Postgres-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![MySql](https://img.shields.io/badge/-MySql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 <!--Others-->
@@ -65,6 +89,8 @@ Others <br>
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=Git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
-![MD](https://img.shields.io/badge/-Markdown-0D1117?style=for-the-badge&logo=markdown&labelColor=0D1117)&nbsp;
+![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&labelColor=Blue)&nbsp;
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=orange)&nbsp;
+![MD](https://img.shields.io/badge/-Markdown-0D1117?style=for-the-badge&logo=markdown&labelColor=0D1117)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width="100%" height="120" src="https://capsule-render.vercel.app/api?type=waving&color=707CFF&height=120&section=footer"/>
