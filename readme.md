@@ -1,6 +1,6 @@
 <img width=100% height="120" src="https://capsule-render.vercel.app/api?type=waving&color=707CFF&height=120&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=35&pause=1000&color=fff&background=000000CC&center=true&vCenter=true&width=1000&lines=Análise+e+Desenvolvimento+de+Sistemas;Frontend+Developer;UI+Design)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=35&pause=1000&color=fff&background=0d1117&center=true&vCenter=true&width=1000&lines=Análise+e+Desenvolvimento+de+Sistemas;Frontend+Developer;UI+Design)](https://git.io/typing-svg)
 
 <div align="center">  
   <picture>
@@ -12,7 +12,7 @@
       srcset="https://github-readme-stats.vercel.app/api?username=paulopbi&show_icons=true&theme=catppuccin_latte#gh-light-mode-only"
       media="(prefers-color-scheme: light)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=paulopbi&show_icons=true" width="49%" height="195" />
+    <img src="https://github-readme-stats.vercel.app/api?username=paulopbi&show_icons=true" width="49%" height="100%" />
 </picture>
 
 <picture>
@@ -26,7 +26,7 @@
     media="(prefers-color-scheme: light)"
   />
   
-<img width="49%" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulopbi&layout=compact&hide_border=true&hide_progress=true" />
+<img width="49%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulopbi&layout=compact&hide_border=true&hide_progress=true" />
 </picture>
 </div>
 
