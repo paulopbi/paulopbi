@@ -12,7 +12,7 @@
       srcset="https://github-readme-stats.vercel.app/api?username=paulopbi&show_icons=true&theme=catppuccin_latte#gh-light-mode-only"
       media="(prefers-color-scheme: light)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=paulopbi&show_icons=true" width="49%" height="195px" />
+    <img src="https://github-readme-stats.vercel.app/api?username=paulopbi&show_icons=true" width="49%" height="195" />
 </picture>
 
 <picture>
@@ -26,7 +26,7 @@
     media="(prefers-color-scheme: light)"
   />
   
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulopbi&layout=compact&hide_border=true&hide_progress=true" />
+<img width="49%" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulopbi&layout=compact&hide_border=true&hide_progress=true" />
 </picture>
 </div>
 
