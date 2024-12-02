@@ -10,7 +10,7 @@
     srcset="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=35&pause=1000&color=4c4f69&center=true&vCenter=true&width=1000&lines=Análise+e+Desenvolvimento+de+Sistemas;Frontend+Developer;UI+Design"
     media="(prefers-color-scheme: light)"
     >
-  <img width="100%" height="195" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=35&pause=1000&center=true&vCenter=true&width=1000&lines=Análise+e+Desenvolvimento+de+Sistemas;Frontend+Developer;UI+Design" />
+  <img width="100%" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=35&pause=1000&center=true&vCenter=true&width=1000&lines=Análise+e+Desenvolvimento+de+Sistemas;Frontend+Developer;UI+Design" />
 </picture>
 
 <!--readme status-->
