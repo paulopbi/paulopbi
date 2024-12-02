@@ -1,7 +1,19 @@
-<img width=100% height="120" src="https://capsule-render.vercel.app/api?type=waving&color=707CFF&height=120&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=707CFF&height=120&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=35&pause=1000&color=fff&background=0d1117&center=true&vCenter=true&width=1000&lines=Análise+e+Desenvolvimento+de+Sistemas;Frontend+Developer;UI+Design)](https://git.io/typing-svg)
+<!--type text-->
+<picture>
+  <source
+    srcset="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=35&pause=1000&color=fff&center=true&vCenter=true&width=1000&lines=Análise+e+Desenvolvimento+de+Sistemas;Frontend+Developer;UI+Design"
+    media="(prefers-color-scheme: dark)"
+    >
+    <source
+    srcset="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=35&pause=1000&color=4c4f69&center=true&vCenter=true&width=1000&lines=Análise+e+Desenvolvimento+de+Sistemas;Frontend+Developer;UI+Design"
+    media="(prefers-color-scheme: light)"
+    >
+  <img width="100%" height="195" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=35&pause=1000&center=true&vCenter=true&width=1000&lines=Análise+e+Desenvolvimento+de+Sistemas;Frontend+Developer;UI+Design" />
+</picture>
 
+<!--readme status-->
 <div align="center">  
   <picture>
     <source
@@ -12,9 +24,10 @@
       srcset="https://github-readme-stats.vercel.app/api?username=paulopbi&show_icons=true&theme=catppuccin_latte#gh-light-mode-only"
       media="(prefers-color-scheme: light)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=paulopbi&show_icons=true" width="49%" height="100%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=paulopbi&show_icons=true" width="49%" height="195px" />
 </picture>
 
+<!--top langs-->
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=paulopbi&show_icons=true&bg_color=00000000&hide_progress=true&hide_border=true&theme=catppuccin_mocha#gh-dark-mode-only"
@@ -26,7 +39,7 @@
     media="(prefers-color-scheme: light)"
   />
   
-<img width="49%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulopbi&layout=compact&hide_border=true&hide_progress=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulopbi&layout=compact&hide_border=true&hide_progress=true" width="49%" height="195px" />
 </picture>
 </div>
 
@@ -93,4 +106,4 @@ Others <br>
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=orange)&nbsp;
 ![MD](https://img.shields.io/badge/-Markdown-0D1117?style=for-the-badge&logo=markdown&labelColor=0D1117)
 
-<img width="100%" height="120" src="https://capsule-render.vercel.app/api?type=waving&color=707CFF&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=707CFF&height=120&section=footer"/>
