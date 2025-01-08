@@ -45,7 +45,7 @@
 
 <br>
 
-Hello, world! 👋🏾
+#### Hello, world! 👋🏾
 
 I'm Paulo Victor, a passionate tech enthusiast currently based in Rio de Janeiro, Brazil. My journey with technology began in my childhood, and it has shaped my career ever since.
 
@@ -53,7 +53,7 @@ I hold a degree in Analysis and Systems Development from Unicesumar, and I speci
 
 On this GitHub, you'll find a collection of my personal and academic projects. Feel free to explore them on <a href="https://github.com/paulopbi?tab=repositories">my GitHub</a> or connect with me on social media below.
 
-![Linkedin](https://img.shields.io/badge/-linkedIn-0D1117?style=for-the-badge&logo=linkedIn&logoColor=blue&labelColor=0D1117)&nbsp;
+![Linkedin](https://img.shields.io/badge/-linkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=blue&labelColor=0D1117)&nbsp;
 ![Github](https://img.shields.io/badge/-github-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)&nbsp;
 ![Behance](https://img.shields.io/badge/-behance-0D1117?style=for-the-badge&logo=behance&logoColor=blue&labelColor=0D1117)&nbsp;
 
@@ -72,33 +72,37 @@ On this GitHub, you'll find a collection of my personal and academic projects. F
 - Casual gamer 🎮
 ```
 
-### Skills
 <!--Frontend-->
-Frontend <br>
+### Frontend 
+
+![NextJS](https://img.shields.io/badge/-NextJS-0D1117?style=for-the-badge&logo=nextdotjs&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![ReactJS](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-html5-0D1117?style=for-the-badge&logo=html5&logoColor=orange&labelColor=0D1117)&nbsp; 
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Tailwind Css](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)&nbsp;
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=CC6699)&nbsp;
 ![Sass](https://img.shields.io/badge/Sass-0D1117?style=for-the-badge&logo=sass&logoColor=CC6699)&nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=CC6699)&nbsp;
 ![Motion](https://img.shields.io/badge/Motion-0D1117?style=for-the-badge&logo=framer&logoColor=FFF312)&nbsp;
 
-<!--Design-->
-Design <br>
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-![Adobe XD](https://img.shields.io/badge/-adobexd-0D1117?style=for-the-badge&logo=adobexd&labelColor=0D1117)&nbsp;
-
 <!--Backend-->
-Backend <br>
+### Backend 
+
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Mongo DB](https://img.shields.io/badge/-Mongo_DB-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Postgres](https://img.shields.io/badge/-Postgres-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![MySql](https://img.shields.io/badge/-MySql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117&textColor=0D1117)&nbsp;
 
+<!--Design-->
+### Design 
+
+![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
+![Adobe XD](https://img.shields.io/badge/-adobexd-0D1117?style=for-the-badge&logo=adobexd&labelColor=0D1117)&nbsp;
+
 <!--Others-->
-Others <br>
+### Others 
+
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=Git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
