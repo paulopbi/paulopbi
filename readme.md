@@ -1,18 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=707CFF&height=120&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-<!--type text-->
-<picture>
-  <source
-    srcset="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=35&pause=1000&color=fff&center=true&vCenter=true&width=1000&lines=Análise+e+Desenvolvimento+de+Sistemas;Frontend+Developer;UI+Design"
-    media="(prefers-color-scheme: dark)"
-    >
-    <source
-    srcset="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=35&pause=1000&color=4c4f69&center=true&vCenter=true&width=1000&lines=Análise+e+Desenvolvimento+de+Sistemas;Frontend+Developer;UI+Design"
-    media="(prefers-color-scheme: light)"
-    >
-  <img width="100%" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=35&pause=1000&center=true&vCenter=true&width=1000&lines=Análise+e+Desenvolvimento+de+Sistemas;Frontend+Developer;UI+Design" />
-</picture>
-
 <!--readme status-->
 <div align="center">  
   <picture>
@@ -106,6 +93,7 @@ On this GitHub, you'll find a collection of my personal and academic projects. F
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=Git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
+![Linux Fedora](https://img.shields.io/badge/-Fedora-0D1117?style=for-the-badge&logo=fedora&labelColor=0D1117)&nbsp;
 ![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&labelColor=Blue)&nbsp;
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=orange)&nbsp;
 ![MD](https://img.shields.io/badge/-Markdown-0D1117?style=for-the-badge&logo=markdown&labelColor=0D1117)
