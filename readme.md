@@ -98,4 +98,10 @@ On this GitHub, you'll find a collection of my personal and academic projects. F
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=orange)&nbsp;
 ![MD](https://img.shields.io/badge/-Markdown-0D1117?style=for-the-badge&logo=markdown&labelColor=0D1117)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paulopbi/paulopbi/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paulopbi/paulopbi/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/paulopbi/paulopbi/output/pacman-contribution-graph.svg">
+</picture>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=707CFF&height=120&section=footer"/>
