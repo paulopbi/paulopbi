@@ -1,6 +1,6 @@
 # Hello World 👋🏾
 
-![Cover Image](./cover.png)
+![Cover Image](./assets/cover.png)
 
 My name is **Paulo Victor** and i'm currently _based in Rio De Janeiro, Brazil_, I'm a passionate **Full Stack Developer** with a degree in **Systems Analysis and Development**.
 
