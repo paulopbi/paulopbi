@@ -1,50 +1,16 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=707CFF&height=120&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+# Hello World 👋🏾
 
-<!--readme status-->
-<div align="center">  
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=paulopbi&show_icons=true&hide_border=true&bg_color=00000000&&theme=catppuccin_mocha#gh-dark-mode-only"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=paulopbi&show_icons=true&theme=catppuccin_latte#gh-light-mode-only"
-      media="(prefers-color-scheme: light)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=paulopbi&show_icons=true" width="49%" height="195px" />
-</picture>
+![Cover Image](./cover.png)
 
-<!--top langs-->
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=paulopbi&show_icons=true&bg_color=00000000&hide_progress=true&hide_border=true&theme=catppuccin_mocha#gh-dark-mode-only"
-    media="(prefers-color-scheme: dark)"
-  />
+My name is **Paulo Victor** and i'm currently _based in Rio De Janeiro, Brazil_, I'm a passionate **Full Stack Developer** with a degree in **Systems Analysis and Development**.
 
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=paulopbi&show_icons=true&hide_progress=true&theme=catppuccin_latte#gh-light-mode-only"
-    media="(prefers-color-scheme: light)"
-  />
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulopbi&layout=compact&hide_border=true&hide_progress=true" width="49%" height="195px" />
-</picture>
-</div>
+My expertise lies in the **MERN stack** _(MongoDB, Express.js, React, Node.js)_, and I primarily code in **TypeScript** to build robust and scalable applications.
 
-<br>
+As a long-time _Linux_ enthusiast, I've been using **Fedora** and **Arch Linux** for years, with extensive experience in **shell scripting** and **terminal environments**. This deep familiarity with Linux systems enhances my development workflow and server management capabilities.
 
-#### Hello, world! 👋🏾
+When I'm not coding, I'm exploring the world of **UI Design**, constantly learning how to create interfaces that are not only functional but also visually appealing and user-friendly
 
-I'm Paulo Victor, a passionate tech enthusiast currently based in Rio de Janeiro, Brazil. My journey with technology began in my childhood, and it has shaped my career ever since.
-
-I hold a degree in Analysis and Systems Development from Unicesumar, and I specialize in Frontend Development and UI Design, which are my primary areas of focus.
-
-On this GitHub, you'll find a collection of my personal and academic projects. Feel free to explore them on <a href="https://github.com/paulopbi?tab=repositories">my GitHub</a> or connect with me on social media below.
-
-![Linkedin](https://img.shields.io/badge/-linkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=blue&labelColor=0D1117)&nbsp;
-![Github](https://img.shields.io/badge/-github-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)&nbsp;
-![Behance](https://img.shields.io/badge/-behance-0D1117?style=for-the-badge&logo=behance&logoColor=blue&labelColor=0D1117)&nbsp;
-
-<br>
+On this _GitHub_, you'll find a collection of my personal and academic projects, feel free to explore them.
 
 ```diff
 @@ Don’t let the fear of losing be greater than the excitement of winning. - Robert Kiyosaki @@
@@ -54,49 +20,55 @@ On this GitHub, you'll find a collection of my personal and academic projects. F
 + Fluent in Brazilian Portuguese and English.
 
 - Guitar player 🎸
-- Technology enthusiast 💻
 - Fitness lover 🏋🏾‍♂️
 - Casual gamer 🎮
 ```
 
-<!--Frontend-->
-### Frontend 
+### 🛠️ Tech Stack
 
-![NextJS](https://img.shields.io/badge/-NextJS-0D1117?style=for-the-badge&logo=nextdotjs&labelColor=0D1117&textColor=0D1117)&nbsp;
-![ReactJS](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117&textColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Typescript](https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![HTML](https://img.shields.io/badge/-html5-0D1117?style=for-the-badge&logo=html5&logoColor=orange&labelColor=0D1117)&nbsp; 
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Tailwind Css](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)&nbsp;
-![Sass](https://img.shields.io/badge/Sass-0D1117?style=for-the-badge&logo=sass&logoColor=CC6699)&nbsp;
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=CC6699)&nbsp;
-![Motion](https://img.shields.io/badge/Motion-0D1117?style=for-the-badge&logo=framer&logoColor=FFF312)&nbsp;
+###### **Frontend:**
 
-<!--Backend-->
-### Backend 
+![React](https://img.shields.io/badge/React-111?style=for-the-badge&logo=react&labelColor)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-111?style=for-the-badge&logo=typescript&labelColor)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&labelColor)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111?style=for-the-badge&logo=tailwind-css&labelColor)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5&labelColor)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-111?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=FFF)&nbsp;
+![Sass](https://img.shields.io/badge/Sass-111?style=for-the-badge&logo=sass&labelColor)&nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-111?style=for-the-badge&logo=bootstrap&labelColor)&nbsp;
+![Motion](https://img.shields.io/badge/Motion-111?style=for-the-badge&logo=framer&labelColor)&nbsp;
 
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Mongo DB](https://img.shields.io/badge/-Mongo_DB-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Postgres](https://img.shields.io/badge/-Postgres-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117&textColor=0D1117)&nbsp;
-![MySql](https://img.shields.io/badge/-MySql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117&textColor=0D1117)&nbsp;
+###### **Backend:**
 
-<!--Design-->
-### Design 
+![Node.js](https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=node.js&labelColor)
+![Mongo DB](https://img.shields.io/badge/-Mongo_DB-111?style=for-the-badge&logo=mongodb&labelColor)&nbsp;
+![Postgres](https://img.shields.io/badge/-Postgres-111?style=for-the-badge&logo=postgresql&labelColor)&nbsp;
+![MySql](https://img.shields.io/badge/-MySql-111?style=for-the-badge&logo=mysql&labelColor&labelColor)&nbsp;
+![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&labelColor)
 
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-![Adobe XD](https://img.shields.io/badge/-adobexd-0D1117?style=for-the-badge&logo=adobexd&labelColor=0D1117)&nbsp;
+###### **Others:**
 
-<!--Others-->
-### Others 
+![Linux](https://img.shields.io/badge/Linux-111?style=for-the-badge&logo=linux&labelColor)&nbsp;
+![Fedora](https://img.shields.io/badge/Fedora-111?style=for-the-badge&logo=fedora&labelColor)&nbsp;
+![Linux](https://img.shields.io/badge/Arch%20Linux-111?style=for-the-badge&logo=archlinux&labelColor)&nbsp;
+![Shell Script](https://img.shields.io/badge/-Shell%20Script-111?style=for-the-badge&logo=shell&labelColor)&nbsp;
+![C](https://img.shields.io/badge/-C-111?style=for-the-badge&logo=c&labelColor)&nbsp;
+![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git&labelColor)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-111?style=for-the-badge&logo=docker&labelColor)&nbsp;
 
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=Git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
-![Linux Fedora](https://img.shields.io/badge/-Fedora-0D1117?style=for-the-badge&logo=fedora&labelColor=0D1117)&nbsp;
-![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&labelColor=Blue)&nbsp;
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=orange)&nbsp;
-![MD](https://img.shields.io/badge/-Markdown-0D1117?style=for-the-badge&logo=markdown&labelColor=0D1117)
+###### **Design:**
+
+![Figma](https://img.shields.io/badge/-figma-111?style=for-the-badge&logo=figma&labelColor)&nbsp;
+
+### 📫 Let's Connect!
+
+I'm always open to discussing new opportunities, collaborations, or just chatting about technology and design!
+
+- [**Portfolio**](https://paulo-victor-portfolio.vercel.app/)
+- [**Linkedin**](https://www.linkedin.com/in/paulopbi/)
+- [**Twitter**](https://x.com/BNuke69769)
+
+### 📈 GitHub Analytics
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paulopbi/paulopbi/output/pacman-contribution-graph-dark.svg">
@@ -104,4 +76,6 @@ On this GitHub, you'll find a collection of my personal and academic projects. F
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/paulopbi/paulopbi/output/pacman-contribution-graph.svg">
 </picture>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=707CFF&height=120&section=footer"/>
+**⚡ Fun Fact:** I believe the best code is written with good coffee and great music! ☕🎵
+
+![Visitor Count](https://komarev.com/ghpvc/?username=paulopbi&color=blueviolet)
