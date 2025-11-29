@@ -14,14 +14,6 @@ On this _GitHub_, you'll find a collection of my personal and academic projects,
 
 ```diff
 @@ Don’t let the fear of losing be greater than the excitement of winning. - Robert Kiyosaki @@
-
-+ Brazilian Native.
-+ Graduate in Analysis and Systems Development (Unicesumar).
-+ Fluent in Brazilian Portuguese and English.
-
-- Guitar player 🎸
-- Fitness lover 🏋🏾‍♂️
-- Casual gamer 🎮
 ```
 
 ### 🛠️ Tech Stack
