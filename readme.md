@@ -16,7 +16,7 @@ On this _GitHub_, you'll find a collection of my personal and academic projects,
 @@ Don’t let the fear of losing be greater than the excitement of winning. - Robert Kiyosaki @@
 ```
 
-### 🛠️ Tech Stack
+### Tech Stack 🛠️
 
 ###### **Frontend:**
 
@@ -52,22 +52,22 @@ On this _GitHub_, you'll find a collection of my personal and academic projects,
 
 ![Figma](https://img.shields.io/badge/-figma-111?style=for-the-badge&logo=figma&labelColor)&nbsp;
 
-### 📫 Let's Connect!
+### Let's Connect! 📫
 
 I'm always open to discussing new opportunities, collaborations, or just chatting about technology and design!
 
 - [**Portfolio**](https://paulo-victor-portfolio.vercel.app/)
 - [**Linkedin**](https://www.linkedin.com/in/paulopbi/)
-- [**Twitter**](https://x.com/BNuke69769)
+- [**Github**](https://github.com/paulopbi)
 
-### 📈 GitHub Analytics
+**⚡ Fun Fact:** I believe the best code is written with good coffee and great music! ☕🎵
+
+### GitHub Analytics 📈
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paulopbi/paulopbi/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paulopbi/paulopbi/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/paulopbi/paulopbi/output/pacman-contribution-graph.svg">
 </picture>
-
-**⚡ Fun Fact:** I believe the best code is written with good coffee and great music! ☕🎵
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=paulopbi&color=blueviolet)
